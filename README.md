@@ -1,7 +1,7 @@
 Abstract Problem:
 As we all know the busy lifestyle of this modern generation,there seems to be no end to the demands of our time, and looking for a job is just one more. So,how do you search for a job in this busy schedule?
-There are various challenges which are present in the market:
 
+There are various challenges which are present in the market:
 Insufficient time for searching for a job.
 You don’t have a proper connection in that specific field in which you are searching for a job.
 Not having proper guidance about Where and When to start.
